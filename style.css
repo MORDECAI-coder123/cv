@@ -1,0 +1,154 @@
+body{
+height: 1800px;
+}
+
+#title{
+    background-color: #ff4c68;
+width: 1500px;
+height:550px;
+}
+.container-fluid{
+    padding: 2px 3px 7%;
+    height: 700px;
+}
+.eat{
+    color: black;
+}
+h1{
+    font-size: 3.5rem;
+    line-height:1.5;
+    font-weight: bold;
+    color: #fff;
+    
+}
+h2{
+    font-style: arial;
+    color:#fff;
+    font-size: 40px;
+}
+#press{
+    padding: 20px 20px 20px;
+    width: 1500px;
+    background-color:#ff4c68;
+    text-align: center;
+}
+em{
+    color: #fff;
+}
+.mordecai{
+    text-align: center;
+}
+.taste{
+    color:black;
+    font-size: 38px;
+    font-style: arial;  
+}
+#pricing{
+    padding: 3% 5% 5%;
+    text-align: center;
+}
+.fine{
+    color:black;
+    font-size: 20px;
+    font-style: arial;
+}
+.logo{
+    padding: 20px 20px 20px;
+    margin-top: 25px;
+}
+.lovely-img{
+    width: 16%;
+    border-radius: 75px;
+}
+#testimonials{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    margin-top: 20px;
+    width:1500px;
+}
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color:#fff;
+}
+.navbar-link{
+    text-align: right;
+    margin-right: 25px;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.on{
+    width: 50%;
+    transform: rotate(18deg);
+    margin-top: 35px;
+    position: absolute;
+    right:30%;
+    z-index: 1;
+}
+.icon-la{
+    padding: 20px 10px;
+    color: black;
+
+}
+.hi{
+    color: black;
+}
+#cta{
+    text-align: center;
+    padding: 7% 15%;
+    background-color: #ff4c68;
+    width:1500px;
+}
+#footer{
+    text-align:center;
+    margin-top:50px;
+
+}
+.open{
+    font-size: 37px;
+    font-style: arial;
+    color: #fff;
+}
+@media(max-width:1020px){
+    .on{
+        position: static;
+        transform: rotate(0);
+    }
+    #title{
+        text-align:center;
+    }
+}
+.download-button{
+    margin: 5% 3% 3%;
+}
+.rest{
+    width:1500px;
+}
+#features{
+padding: 10% 4% 3%;
+background-color: #fff;
+
+z-index:-1 ;
+}
+.row{
+    text-align: center;
+}
+.icon{
+    text-align: center;
+    color: #ef8172;
+    margin-top: 1rem;
+}
+.icon:hover{
+    color: #ff4c68;
+}
+p{
+    color:gray;
+}
+h3{
+    font-size: 25px;
+    font-style: arial;
+    color: black;
+}
